@@ -3,7 +3,7 @@
 
 
 ### Sew queen whatsapp bot
-(https://user-images.githubusercontent.com/94382409/144757203-a41f30db-dac7-446c-aede-8a72a906ca52.png)
+https://user-images.githubusercontent.com/94382409/144757203-a41f30db-dac7-446c-aede-8a72a906ca52.png
 
 
 
